@@ -22,6 +22,7 @@ Create a .env.local file in root:
 
 
 <h2>File structure</h2>
+
 ```
 Context/
 ├── app/
