@@ -21,7 +21,7 @@ Create a .env.local file in root:
 ```npm run dev```
 
 
-File structure
+<h2>File structure</h2>
 ```
 Context/
 ├── app/
@@ -38,7 +38,7 @@ Context/
 └── README.md
 ```
 
-Architecture overview
+<h2>Architecture overview</h2>
 
 ```
 Client / Postman
