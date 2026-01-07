@@ -1,10 +1,14 @@
-Setup Instructions
+<h2>Setup Instructions</h2>
+<br>
 1.Clone the Repository
+
 ```
 git clone https://github.com/Saloni1707/Context.git
 cd Context
 ```
+
 2.Install Dependencies
+
 ``npm install``
 
 3.Add Environment Variables
